@@ -1,0 +1,73 @@
+.hd{
+	display:flex;
+	align-items:center;
+}
+.logo{
+	width:100px;
+	height:auto;
+	flex:1;
+}
+.text{
+	font-size:1.2rem;
+	flex:4;
+}
+.bar{
+	align-items:center;
+	padding:10px;
+	background-color:gray; 
+	color:black;
+}
+.bar li{
+	margin:15px;
+}
+.bar ul{
+	justify-content:center;
+	list-style-type:none;
+	display:flex;
+}
+.bar a{
+	text-decoration:none;
+}
+.bar a:hover{
+	color:pink;
+}
+.pic img{
+	width:1000;
+	height:auto;
+}
+.box{
+	display:flex;
+	
+	
+}
+.box1 img{
+	flex:1;
+	box-shadow:0 2px 2px 0;
+	
+}
+.box2 img{
+	flex:1;
+	box-shadow:0 2px 2px 0;
+	
+}
+.box3 img{
+	flex:1;
+	box-shadow:0 2px 2px 0;
+	
+}
+.txt1 img{
+	flex:1;
+	padding:20px;
+	margin:20px;
+}
+.txt2 img{
+	flex:1;
+	padding:20px;
+	margin:20px;
+	
+}
+.txt3 img{
+	flex:1;
+	padding:20px;
+	margin:20px;
+}	
