@@ -1,0 +1,64 @@
+.head{
+	display:flex;
+	align-items:center;
+}
+.logo{
+	flex:1;
+	height:auto;
+	width:250px;
+}
+.text{
+	flex:3;
+	font-size:1.8rem;
+}
+.bar{
+	margin-top:15px;
+	padding:10px;
+	background-color:grey;
+}
+.bar ul{
+	display:flex;
+	justify-content:flex-front;
+	list-style-type:none;
+}
+.bar li{
+	margin:0 25px;
+}
+.bar a{
+	text-decoration:none;
+}
+.bar a:hover{
+	color:pink;
+}
+.pic img{
+	width:1100px;
+	height:auto;
+	padding:50px;
+}
+.boxxx{
+	display:flex;
+	align-items:center;
+}
+.box1{
+	flex:1;
+	box-shadow:0px 8px 4px 0px;
+	padding:20px;
+	margin:20px;
+}
+
+.box2{
+	flex:1;
+	box-shadow:0px 8px 4px 0px;
+	margin:20px;
+	padding:10px;
+}
+.box3{
+	flex:1;
+	box-shadow:0px 8px 4px 0px;
+	padding:10px;
+	margin:20px;
+}
+
+
+
+	
