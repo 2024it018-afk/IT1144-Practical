@@ -1,0 +1,51 @@
+.head{
+	width:300px;
+	height:auto;
+	display:block;
+	margin:0 auto;
+	justify-content:center;
+	align-items:center;
+}
+h2{
+	border:10px solid;
+	font-size:100px;
+	color:white;
+	background-color:#242357;
+	align-items:center;
+	justify-content:center;
+    	
+}
+.content{
+	max-width:800px;
+    margin:40px auto;
+	padding:0 20px;
+}
+.box{
+	border:12px solid #515157;
+	border-radius:12px;
+	padding:20px;
+	margin-bottom:25px;
+	font-size:40px;
+	width:2000px;
+	
+	
+}
+.gallery-btn{
+	background-color:#161452;
+	color:white;
+	border-radius:12px;
+	font-size:38px;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	width:fit-content;
+	margin:30px auto;
+	padding:12px 35px;
+}
+footer{
+	border:10px solid;
+	justify-content:center;
+	align-items:center;
+	font-size:40px;
+}
+	
